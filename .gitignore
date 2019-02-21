@@ -1,0 +1,6 @@
+# Ignore macOS hidden files.
+.DS_Store
+# Ignore Mathematica files.
+*.nb
+# Ignore PDF files
+*.pdf
